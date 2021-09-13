@@ -42,11 +42,11 @@ body {
 @keyframes RunCube {
     from {
         /* transform: rotateY(20deg) scale(.5); */
-        transform: rotateY(20deg);
+        transform: rotateX(20deg);
     }
     to {
         /* transform: rotateY(400deg) scale(2); */
-        transform: rotateY(400deg);
+        transform: rotateX(400deg);
     }
 
     /* 0% {
